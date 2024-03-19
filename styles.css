@@ -2,6 +2,10 @@
     background-color: black;
 }*/
 
+.greeting {
+    color: red;
+}
+
 body {
     margin: 0;
     padding: 0;
